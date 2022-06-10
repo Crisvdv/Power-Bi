@@ -1,4 +1,6 @@
 # Power-Bi
-Proects
+Proyects
+
 Base de datos udec:
+
 https://app.powerbi.com/view?r=eyJrIjoiOTU5MzUyNmQtY2QyMy00NDBkLTg0YzItMDgxMzhkYTBmNjg1IiwidCI6IjU2NTgyYjllLTg4MjQtNDlkMC1hNjY1LWNkMzI4YzBlMDA0YSIsImMiOjR9&pageName=ReportSection0d203d92eec31574ef3d
